@@ -20,6 +20,9 @@ import { AppRoutingModule } from './app-route.module';
     MusicCompComponent,
   ],
   imports: [
+    // BrowserModule.withServerTransition({
+    //   appId: 'toh-universal',
+    // }),
     BrowserModule,
     FormsModule,
     HttpModule,
