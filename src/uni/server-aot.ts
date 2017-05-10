@@ -27,6 +27,6 @@ server.get(['/*.js', '/*.css'], (req, res, next) => {
     });
 });
 // start the server
-server.listen(3200, () => {
+server.listen(process.env.PORT || 3200, () => {
     console.log('listening on port 3200...');
 });
