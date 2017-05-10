@@ -34,7 +34,7 @@
     "@angular/cli": "1.0.1",
     "@angular/compiler-cli": "^4.1.0",
     "@angular/platform-server": "^4.1.0",
-    "@angular/animations": "^4.1.0",
+    "@angular/animations": "^4.1.0"
   },
   "devDependencies": {
     "@types/jasmine": "2.5.38",
