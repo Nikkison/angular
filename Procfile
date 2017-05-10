@@ -1,2 +1,2 @@
-npm run build:uni
+build: npm run build:uni
 web: npm run serve:uni
